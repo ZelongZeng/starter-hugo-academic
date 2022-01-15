@@ -1,6 +1,6 @@
 ---
 title: Zelong ZENG
-role: PhD student of Artificial Intelligence
+role: Ph.D student of Artificial Intelligence
 avatar_filename: avatar.jpg
 bio: My research interests include computer vision, image retrieval and
   representation learning.
@@ -25,7 +25,7 @@ organizations:
     url: http://www.satoh-lab.nii.ac.jp/member.html
 education:
   courses:
-    - course: PhD in Information and Communication Engineering
+    - course: Ph.D in Information and Communication Engineering
       institution: The University of Tokyo, Japan
       year: 2023
     - course: M.E. in Information and Communication Engineering
@@ -38,4 +38,4 @@ email: zzlbz@nii.ac.jp
 superuser: true
 highlight_name: true
 ---
-Zelong ZENG is currently a PhD student at the Department of Information and Communication Engineering, Graduate School of Information Science and Technology, the University of Tokyo, Tokyo, Japan. He receive the B.E. degree from Shandong University in 2016, and the M.E degrees from the University of Tokyo in 2020.
+Zelong ZENG is currently a Ph.D student at the Department of Information and Communication Engineering, Graduate School of Information Science and Technology, the University of Tokyo, Tokyo, Japan. He receive the B.E. degree from Shandong University in 2016, and the M.E degrees from the University of Tokyo in 2020.

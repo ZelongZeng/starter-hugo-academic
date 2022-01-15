@@ -45,7 +45,7 @@ image:
   preview_only: false
   alt_text: A toy example to illustrate the real application scenario of ReID
   filename: featured.jpg
-date: 2022-01-15T17:51:57.515Z
+date: 2020-01-01T02:11:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""

@@ -1,7 +1,7 @@
 ---
 title: Zelong ZENG
 role: PhD student of Artificial Intelligence
-avatar_filename: 写真.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include computer vision, image retrieval and
   representation learning.
 interests:

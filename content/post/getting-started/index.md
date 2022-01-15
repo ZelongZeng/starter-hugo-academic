@@ -18,6 +18,6 @@ image:
   focal_point: Smart
   placement: 2
   preview_only: false
-  filename: feature.jpg
+  filename: featured.jpg
 ---
 Welcome 👋 I am Zelong ZENG, currently a PhD student of the University of Tokyo. I will share my research work  here.

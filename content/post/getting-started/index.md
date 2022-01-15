@@ -14,7 +14,7 @@ categories:
   - News
 projects: []
 image:
-  caption: ""
+  caption: "Winter in Nikko, Japan. "
   focal_point: ""
   placement: 2
   preview_only: false

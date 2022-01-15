@@ -52,5 +52,5 @@ url_poster: ""
 url_code: ""
 ---
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to get the publication metadata.
 {{% /callout %}}

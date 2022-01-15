@@ -1,6 +1,6 @@
 ---
 title: Zelong ZENG
-role: Professor of Artificial Intelligence
+role: PhD student of Artificial Intelligence
 avatar_filename: 写真.jpeg
 bio: My research interests include computer vision, image retrieval and
   representation learning.

@@ -15,7 +15,7 @@ categories:
 projects: []
 image:
   caption: "Winter in Nikko, Japan. "
-  focal_point: ""
+  focal_point: Smart
   placement: 2
   preview_only: false
   filename: feature.jpg

@@ -52,5 +52,5 @@ url_poster: ""
 url_code: ""
 ---
 {{% callout note %}}
-Click the *Cite* button above to get the publication metadata.
+Click the *PDF, Cite or DOI* buttons above to get the relative file or metadata. 
 {{% /callout %}}

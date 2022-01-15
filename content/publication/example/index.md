@@ -5,8 +5,8 @@ abstract: Most person re-identification (ReID) approaches assume that person
   captured under different illumination conditions at different times across a
   day. In this situation, the performances of existing ReID models often degrade
   dramatically. This paper addresses the ReID problem with illumination
-  variations and names it as {\em Illumination-Adaptive Person Re-identification
-  (IA-ReID)}. We propose an Illumination-Identity Disentanglement (IID) network
+  variations and names it as Illumination-Adaptive Person Re-identification
+  (IA-ReID). We propose an Illumination-Identity Disentanglement (IID) network
   to dispel different scales of illuminations away while preserving individuals'
   identity information. To demonstrate the illumination issue and to evaluate
   our model, we construct two large-scale simulated datasets with a wide range
@@ -32,7 +32,7 @@ publication_short: In *TMM*
 url_source: ""
 url_video: ""
 title: Illumination-adaptive person re-identification
-doi: ""
+doi: 10.1109/TMM.2020.2969782
 featured: false
 tags:
   - ReID
@@ -47,11 +47,10 @@ image:
   filename: featured.jpg
 date: 2022-01-15T17:51:57.515Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
@@ -59,5 +58,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

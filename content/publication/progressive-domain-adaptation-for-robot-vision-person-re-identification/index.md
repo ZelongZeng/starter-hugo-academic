@@ -4,7 +4,7 @@ publication_types:
   - "1"
 authors:
   - Zijun Sha
-  - Zelong Zeng
+  - admin
   - Zheng Wang
   - Yoichi Natori
   - Yasuhiro Taniguchi
@@ -38,7 +38,7 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-01-15T18:24:52.681Z
+date: 2020-10-11T18:24:52.681Z
 ---
 {{% callout note %}}
 Click the *PDF, Cite or DOI* buttons above to get the relative file or metadata. 

@@ -25,13 +25,13 @@ organizations:
 education:
   courses:
     - course: PhD in Information and Communication Engineering
-      institution: The University of Tokyo
+      institution: The University of Tokyo, Japan
       year: 2023
     - course: M.E. in Information and Communication Engineering
-      institution: The University of Tokyo
+      institution: The University of Tokyo, Japan
       year: 2020
     - course: B.E. in Control Science and Engineering
-      institution: Shandong University
+      institution: Shandong University, China
       year: 2016
 email: zzlbz@nii.ac.jp
 superuser: true

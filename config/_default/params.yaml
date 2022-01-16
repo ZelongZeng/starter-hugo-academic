@@ -20,12 +20,6 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-content:
-  form:
-    provider: netlify
-    netlify:
-      captcha: true
-
 email: zzlbz@nii.ac.jp
 # phone: 888 888 88 88
 address:

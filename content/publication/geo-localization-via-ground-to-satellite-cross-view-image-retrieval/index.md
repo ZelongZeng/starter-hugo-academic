@@ -8,7 +8,7 @@ authors:
   - Fan Yang
   - Shin'ichi Satoh
 author_notes:
-  - FirstAuthor
+  - First author
 publication: In *IEEE Transactions on Multimedia*
 publication_short: In *TMM*
 abstract: >-

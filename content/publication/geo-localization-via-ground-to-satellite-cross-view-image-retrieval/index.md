@@ -1,5 +1,5 @@
 ---
-title: Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval
+title: Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval (To appear)
 publication_types:
   - "2"
 authors:
@@ -9,6 +9,8 @@ authors:
   - Shin'ichi Satoh
 author_notes:
   - FirstAuthor
+publication: In *IEEE Transactions on Multimedia*
+publication_short: In *TMM*
 abstract: >-
   The large variation of viewpoint and irrelevant content around the target
   always hinder accurate image retrieval and its subsequent tasks. In this
@@ -25,9 +27,13 @@ abstract: >-
   To address this issue, we take advantage of drone-view information as a bridge between ground-view and satellite-view domains. We propose a Peer Learning and Cross Diffusion (PLCD) framework. PLCD consists of three parts: 1) a peer learning across ground-view and drone-view to find visible parts to benefit ground-drone cross-view representation learning; 2) a patch-based network for satellite-drone cross-view representation learning; 3) a cross diffusion between ground-drone space and satellite-drone space. Extensive experiments conducted on the University-Earth and University-Google datasets show that our method outperforms state-of-the-arts significantly.
 draft: false
 featured: false
+tags:
+  - ImageRetrieval
+categories:
+  - Journal
 image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-01-16T10:47:33.666Z
+date: 2022-01-16T11:02:13.743Z
 ---

@@ -42,18 +42,6 @@ contact_links:
     icon_pack: fas
     name: Google Map
     link: 'https://www.google.com/maps/place/NII%EF%BC%88National+Institute+of+Informatics%EF%BC%89/@35.6926156,139.7557258,17z/data=!3m1!4b1!4m5!3m4!1s0x60188c11e52a7af7:0x59be01a56f0cf10e!8m2!3d35.6926156!4d139.7579145''
-#   - icon: skype
-#     icon_pack: fab
-#     name: Skype Me
-#     link: 'skype:echo123?call'
-#   - icon: keybase
-#     icon_pack: fab
-#     name: Chat on Keybase
-#     link: 'https://keybase.io/'
-#   - icon: comments
-#     icon_pack: fas
-#     name: Discuss on Forum
-#     link: 'https://discourse.gohugo.io'
 
 # Site header
 

@@ -16,8 +16,8 @@ author_notes:
   - Equal contribution
   - ""
 doi: https://doi.org/10.1145/3394171.3414358
-publication: Proceedings of the ACM International Conference on Multimedia
-publication_short: ACM MM
+publication: In *Proceedings of the ACM International Conference on Multimedia*
+publication_short: In *ACM MM*
 abstract: Person re-identification has received much attention in the last few
   years, as it enhances the retrieval effectiveness in the video surveillance
   networks and video archive management. In this paper, we demonstrate a guiding

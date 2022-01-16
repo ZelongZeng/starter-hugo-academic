@@ -28,7 +28,7 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - ImageRetrieval
+  - Image Retrieval
 categories:
   - Journal
 image:

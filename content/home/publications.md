@@ -2,7 +2,7 @@
 widget: pages
 widget_id: " update position"
 headless: true
-weight: 80
+weight: 70
 title: Recent Publications
 subtitle: ""
 content:

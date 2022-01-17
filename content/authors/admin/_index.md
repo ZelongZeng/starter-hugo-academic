@@ -22,7 +22,7 @@ organizations:
   - name: The University of Tokyo
     url: https://www.i.u-tokyo.ac.jp/edu/course/ice/
   - name: Shin'ichi Satoh's Lab
-    url: http://www.satoh-lab.nii.ac.jp/member.html
+    url: http://www.satoh-lab.nii.ac.jp/
 education:
   courses:
     - course: Ph.D in Information and Communication Engineering

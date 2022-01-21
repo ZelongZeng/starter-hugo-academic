@@ -9,6 +9,7 @@ authors:
   - Shin'ichi Satoh
 author_notes:
   - First author
+doi: 10.1109/TMM.2022.3144066
 publication: In *IEEE Transactions on Multimedia*
 publication_short: In *TMM*
 abstract: >-

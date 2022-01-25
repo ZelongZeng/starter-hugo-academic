@@ -1,5 +1,5 @@
 ---
-title: Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval (To appear)
+title: "Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval "
 publication_types:
   - "2"
 authors:

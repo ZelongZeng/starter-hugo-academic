@@ -1,6 +1,6 @@
 ---
 title: My new work! "Improving Generalization of Metric Learning via Listwise
-  Self-distillation"
+  Self-distillation" 🆕
 date: 2022-06-20T02:29:18.259Z
 draft: false
 featured: false

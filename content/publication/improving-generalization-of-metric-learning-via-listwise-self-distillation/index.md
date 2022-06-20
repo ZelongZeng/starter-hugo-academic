@@ -25,12 +25,12 @@ abstract: Most deep metric learning (DML) methods employ a strategy that forces
   performance of various metric learning methods on multiple datasets.
 draft: false
 featured: false
+tags:
+  - Image Retrieval
 image:
   filename: embedding.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-06-20T02:34:39.650Z
 ---
-{{% callout note %}}
-Click the *PDF or Cite* buttons above to get the relative file or metadata. 
-{{% /callout %}}
+Arxiv link: <https://arxiv.org/abs/2206.08880>

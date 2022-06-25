@@ -38,3 +38,6 @@ image:
   preview_only: false
 date: 2022-01-16T11:02:13.743Z
 ---
+{{% callout note %}}
+Click the *PDF, Cite or DOI* buttons above to get the relative file or metadata. 
+{{% /callout %}}

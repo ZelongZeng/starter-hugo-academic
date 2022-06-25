@@ -34,4 +34,6 @@ image:
   preview_only: false
 date: 2022-06-20T02:34:39.650Z
 ---
-Arxiv link: <https://arxiv.org/abs/2206.08880>
+{{% callout note %}}
+Click the *PDF, Cite or DOI* buttons above to get the relative file or metadata. 
+{{% /callout %}}

@@ -9,6 +9,7 @@ authors:
   - Shin'ichi Satoh
 author_notes:
   - First author
+doi: " https://doi.org/10.48550/arXiv.2206.08880"
 publication: Arxiv
 abstract: Most deep metric learning (DML) methods employ a strategy that forces
   all positive samples to be close in the embedding space while keeping them

@@ -1,6 +1,6 @@
 ---
-title: Official code repository for the paper "Improving Generalization of
-  Metric Learning via Listwise Self-distillation" in Pytorch
+title: Official code for the paper "Improving Generalization of Metric Learning
+  via Listwise Self-distillation" in Pytorch
 date: 2022-06-27T18:30:10.966Z
 draft: false
 featured: false
